@@ -8,7 +8,7 @@ public class Ex03 {
         int answer = 0;
         while(n>0){
             for(int i=n; i>0; i--){
-                n
+                npoklkkpklk;lkpo
             }
         }
 
